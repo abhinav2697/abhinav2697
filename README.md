@@ -25,7 +25,7 @@ Hey There👩‍💻
 Just a techie NeRd !
 
 *   💻  A Computer Science Engineer.
-*   ✉️  How to reach me [abhinav@gmail.com](mailto:abhinav2697@gmail.com)
+*   ✉️  How to reach me [abhinav2697@gmail.com](mailto:abhinav2697@gmail.com)
 *   🧠  Execution is the real game. 
 *   🤝  Open to collaborating on Various Open Source Projects
 *   ⚡  FUN FACT: I don't like normal stuff -_^
