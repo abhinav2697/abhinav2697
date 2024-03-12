@@ -22,7 +22,7 @@ Hey There👩‍💻
 
 
 
-Just a techie NeRd !
+
 
 *   💻  A Computer Science Engineer.
 *   ✉️  How to reach me [abhinav2697@gmail.com](mailto:abhinav2697@gmail.com)
