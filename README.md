@@ -28,7 +28,7 @@ Just a techie NeRd !
 *   ✉️  How to reach me [abhinav2697@gmail.com](mailto:abhinav2697@gmail.com)
 *   🧠  Execution is the real game. 
 *   🤝  Open to collaborating on Various Open Source Projects
-*   ⚡  FUN FACT: I don't like normal stuff -_^
+
 
 <h1 align="left">SKILLS</h1>
 <div align="center">
