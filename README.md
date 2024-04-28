@@ -25,7 +25,7 @@ Hey There👩‍💻
 *   💻  A Computer Science Engineer.
 *   ✉️  How to reach me [abhinav2697@gmail.com](mailto:abhinav2697@gmail.com)
 *   🧠  Execution is the real game. 
-*   🤝  Open to collaborating on Various Open Source Projects
+*   🤝  Open to collaborating on Various Open Source Projects.
 
 
 <h1 align="left">SKILLS</h1>
