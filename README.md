@@ -29,7 +29,7 @@ Hey There👩‍💻
 
 
 <h1 align="left">SKILLS</h1>
-<div align="center">
+<div align="left">
 <div>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
