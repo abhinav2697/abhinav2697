@@ -41,7 +41,7 @@ Hey There👩‍💻
  </div>
   
   </div>
- <div align="center">
+ <div align="left">
 <p>
 
 
