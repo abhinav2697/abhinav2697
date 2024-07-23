@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 -->
 
-Hey There👩‍💻
+Hey There
 =============================================================================================================================
 
 <img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/83ab6d6c3e5e8a301c9537e24e9790f9/826a2514c6376f30-55/s1280x1920/e25d3e5edae3cdd4795c4308031b7196284f5ea2.gif">
